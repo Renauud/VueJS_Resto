@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "email": "rzell57@gmail.com",
+      "name": "Renaud Zell",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "email": "b",
+      "password": "c",
+      "name": "a",
+      "id": 2
+    },
+    {
+      "email": "a",
+      "password": "bv",
+      "name": "renaud",
+      "id": 3
+    },
+    {
+      "email": "b",
+      "password": "c",
+      "name": "a",
+      "id": 4
+    }
+  ]
+}
