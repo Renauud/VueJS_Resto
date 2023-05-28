@@ -1,2 +1,3 @@
-json-server --watch db.json <-- start json server
-npm run serve <-- run server
+json-server --watch db.json <-- start json server (à faire dans la fichier db)
+npm run serve <-- run server (à faire dans resto-project)
+npm install axios (une fois, dans resto-project)
