@@ -27,16 +27,16 @@
   ],
   "restaurants": [
     {
-      "id": 1,
       "name": "Burger King",
+      "address": "Noida sector 5aze",
       "contact": 11111,
-      "address": "Noida sector 50"
+      "id": 1
     },
     {
-      "id": 2,
       "name": "Dominos's Pizza",
-      "contact": 22222,
-      "address": "Gurgaon sector 20"
+      "address": "Gurgaon sector 20",
+      "contact": "AZEAZEAZE",
+      "id": 2
     },
     {
       "id": 3,
@@ -63,9 +63,9 @@
       "id": 6
     },
     {
-      "name": "1",
-      "address": "22",
-      "contact": "33",
+      "name": "AB",
+      "address": "C",
+      "contact": "QSDQSD",
       "id": 7
     }
   ]
