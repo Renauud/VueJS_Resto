@@ -1,2 +1,2 @@
-json-server --watch db.json <-- start json server
+json-server --watch db.json <-- start json server (là où est la db)
 npm run serve <-- run server
